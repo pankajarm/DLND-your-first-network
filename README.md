@@ -1,6 +1,6 @@
 # DLND-your-first-network
 
-UDACIY Deep Learning Foundation Course
+UDACITY Deep Learning Foundation Course
 
 Project 1
 
