@@ -16,9 +16,13 @@ The data comes from the UCI Machine Learning Database.
 
 https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset
 
-Instructions
+#Instructions
 
-Download the project materials from this link, or from the link at the bottom of the page, and unzip it.
+Download the project materials from this link,
+
+https://d17h27t6h515a5.cloudfront.net/topher/2017/January/588d28a7_dlnd-your-first-network/dlnd-your-first-network.zip
+
+unzip it...
 
 cd into the dlnd-your-first-network folder that you just unzipped.
 
